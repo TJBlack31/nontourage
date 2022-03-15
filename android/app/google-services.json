@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1072112112334",
+    "project_id": "nontourage-ea83d",
+    "storage_bucket": "nontourage-ea83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072112112334:android:c484d6dc0538723233369f",
+        "android_client_info": {
+          "package_name": "com.travisblack.nontourage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072112112334-41c6vvarel75o1ut59tsmrp1s45hj4to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travisblack.nontourage",
+            "certificate_hash": "dfe7f76baf185aad754bb13b9d175285f57f556d"
+          }
+        },
+        {
+          "client_id": "1072112112334-l9gbmofufrv08tn26knhfk71ori1j52e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3spLFOqMn7fMaE0-w8cRLTGVGfDPt5Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072112112334-l9gbmofufrv08tn26knhfk71ori1j52e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072112112334-10lpb0iek07fs3d6utsbk8n98qk50b6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travisblack.nontourageapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
